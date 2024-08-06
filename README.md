@@ -107,3 +107,5 @@ Give each th element a span element with the class set to sr-only and the follow
 ## Step 20
 
 Within the tbody element, add four tr elements. Give the first three the class attribute set to data, and the fourth the class attribute set to total.
+---
+Created by: [Deo Manzano Ranay](https://www.facebook.com/deomranayofficialfbaccount/) a.k.a. "Chase"
